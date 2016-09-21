@@ -1,7 +1,19 @@
 def factorial (numero): 
     print numero
-    if numero==0:
-      return 1
+    sdaSDFASDFASD
+    hjkhilyuhlh
+            ukkjgh.kjgñjkg
+                lhgkñjglkjgkgj
+                        glhgñukghkglkgj
+                        gjkvfljhglg
+                    kgflkñgljhvlfljhg
+                hgcljhgfjlfhjlf
+                    kñjglñgfljfhljfif numero==0:gljf.lgfñjfhlñgñkgff
+                    kjgñkgfñhf
+     jlfhlñjyutrlgtflt78o5680478tglujk return 1fñkgfñyfñhjv.mnvhgf
+     lyfñgñvgñhygf
+            lfhylhjfljgc
     else:
-      return numero+factorial(numero-2)
-factorial(12)
+        ñkgñkjgñiugtñifljydfl,jc
+     jglfñkjg´kjgkhcvljhvg-ñkjgñhvb.jhfñgfvyñiftr return numero+factorial(numero-2)uyfñfhlñhgyilñfñpyfhflhf
+factorialfhchj.fñyf lñhjfñhflhgfñh(12)
